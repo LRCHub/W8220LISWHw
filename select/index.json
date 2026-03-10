@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "TA-DA!",
+  "base_artist": "LIMELIGHT",
+  "createdAt": "2026-03-10T06:50:04.811676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ta Da",
+      "artist": "Spank Rock",
+      "has_synced": true,
+      "path": "select/01_Ta_Da_Spank_Rock.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ta Da",
+      "artist": "Lil' Mo",
+      "has_synced": true,
+      "path": "select/02_Ta_Da_Lil'_Mo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TA-DA!",
+      "artist": "LIMELIGHT",
+      "has_synced": true,
+      "path": "select/03_TA-DA!_LIMELIGHT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TA-DA! (Accapella)",
+      "artist": "LIMELIGHT",
+      "has_synced": true,
+      "path": "select/04_TA-DA!_(Accapella)_LIMELIGHT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TA-DA! (acca.)",
+      "artist": "LIMELIGHT",
+      "has_synced": true,
+      "path": "select/05_TA-DA!_(acca.)_LIMELIGHT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TA-DA! (inst.)",
+      "artist": "LIMELIGHT",
+      "has_synced": true,
+      "path": "select/06_TA-DA!_(inst.)_LIMELIGHT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ta-da",
+      "artist": "akumuh",
+      "has_synced": true,
+      "path": "select/07_ta-da_akumuh.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ta Da",
+      "artist": "Lil' Mo",
+      "has_synced": true,
+      "path": "select/08_Ta_Da_Lil'_Mo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TA・DA ☆ YO・SHI",
+      "artist": "Y＆Co.",
+      "has_synced": false,
+      "path": "select/09_TA・DA_☆_YO・SHI_Y&Co..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ta-Da",
+      "artist": "Ufuk Beydemir",
+      "has_synced": true,
+      "path": "select/10_Ta-Da_Ufuk_Beydemir.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ta Da (feat. Calii Breezze)",
+      "artist": "Yung Brando",
+      "has_synced": true,
+      "path": "select/11_Ta_Da_(feat._Calii_Breezze)_Yung_Brando.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Để Nhớ Một Thời Ta Đã Yêu",
+      "artist": "Bằng Kiều",
+      "has_synced": true,
+      "path": "select/12_Để_Nhớ_Một_Thời_Ta_Đã_Yêu_Bằng_Kiều.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Để Nhớ Một Thời Ta Đã Yêu",
+      "artist": "Minh Tuyết, Bằng Kiều",
+      "has_synced": true,
+      "path": "select/13_Để_Nhớ_Một_Thời_Ta_Đã_Yêu_Minh_Tuyết,_Bằng_Kiều.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vibin'  (Kenny \"Smoove\" Remix) (feat. 2 Ta Da Head/Eric Sermon/Keith Murray/Redman)",
+      "artist": "Boyz II Men",
+      "has_synced": false,
+      "path": "select/14_Vibin'_(Kenny__Smoove__Remix)_(feat._2_Ta_Da_Head_Eric_Sermon_Keith_Murray_Redma_Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ta Đã Từng Yêu Nhau Chưa",
+      "artist": "Hao",
+      "has_synced": false,
+      "path": "select/15_Ta_Đã_Từng_Yêu_Nhau_Chưa_Hao.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ta Đã Từng Yêu (feat. NHA)",
+      "artist": "DuongG",
+      "has_synced": true,
+      "path": "select/16_Ta_Đã_Từng_Yêu_(feat._NHA)_DuongG.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ga Ra Ta Da (Simlish)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/17_Ga_Ra_Ta_Da_(Simlish)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ga Ra Ta Da (Simlish)",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/18_Ga_Ra_Ta_Da_(Simlish)_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TA-DA!",
+      "artist": "LIMELIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_TA-DA!_LIMELIGHT.txt"
+    }
+  ]
+}
